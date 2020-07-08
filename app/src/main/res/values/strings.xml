@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">shubham QuizApp</string>
+    <string name="question1title">Question 1</string>
+    <string name="question2title">Question 2</string>
+    <string name="question3title">Question 3</string>
+    <string name="question4title">Question 4</string>
+    <string name="question5title">Question 5</string>
+    <string name="question1">Who are the only Indian Batsmen to score 5000+ runs in IPL history?</string>
+    <string name="answerSureshRaina">Suresh Raina</string>
+    <string name="answerRohitSharma">Rohit Sharma</string>
+    <string name="question2">Gautam Gambhir made his ODI debut in 2003.That match was won by India by 200 runs.How many balls did he face for his 11 runs?</string>
+    <string name="answer12">12</string>
+    <string name="answer22">22</string>
+    <string name="answer32">32</string>
+    <string name="question3">Yuvraj Singh Hit 6 six in 6 balls against which team?</string>
+    <string name="TeamNameHint">Most famous 6 six in 6 balls</string>
+    <string name="question4">How many runs did Sachin Tendulkar was scored in his ODI debut?</string>
+    <string name="answer70">70</string>
+    <string name="answer50">50</string>
+    <string name="answer0">0</string>
+    <string name="question5">Who are the only Indian Batsmen to score Triple Test Century?</string>
+    <string name="submit">Submit</string>
+    <string name="answerKarunNair">Karun Nair</string>
+    <string name="answerViratKohli">Virat Kohli</string>
+    <string name="answerVirenderSehwag">Virender Sehwag</string>
+</resources>
